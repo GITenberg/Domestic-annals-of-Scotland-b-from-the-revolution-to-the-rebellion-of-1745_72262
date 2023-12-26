@@ -1,0 +1,31 @@
+_repo: Domestic-annals-of-Scotland-b-from-the-revolution-to-the-rebellion-of-1745_72262
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chambers, Robert
+    alias: Chambers, R. (Robert)
+    birthdate: 1802
+    deathdate: 1871
+    gutenberg_agent_id: '5276'
+    url: http://www.gutenberg.org/2009/agents/5276
+    wikipedia: https://en.wikipedia.org/wiki/Robert_Chambers_(publisher,_born_1802)
+description: ''
+gutenberg_issued: '2023-11-29'
+identifiers:
+  gutenberg: '72262'
+language: en
+pgterms:marc904: https://archive.org/details/domesticannalsof03chamiala/
+pgterms:marc905: 20200718014208chambers
+pgterms:marc906: '1861'
+pgterms:marc907: GB
+production_note: Richard Tonsing, Susan Skinner, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aEdinburgh :$bW. & R. Chambers, $c1861.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Domestic annals of Scotland : $b from the revolution to the rebellion of 1745'
+url: http://www.gutenberg.org/ebooks/72262
