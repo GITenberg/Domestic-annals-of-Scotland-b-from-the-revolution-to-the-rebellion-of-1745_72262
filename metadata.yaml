@@ -1,5 +1,8 @@
 _repo: Domestic-annals-of-Scotland-b-from-the-revolution-to-the-rebellion-of-1745_72262
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72262-h/images/cover.jpg
 creator:
   author:
     agent_name: Chambers, Robert
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5276
     wikipedia: https://en.wikipedia.org/wiki/Robert_Chambers_(publisher,_born_1802)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72262#Domestic-annals-of-Scotland-b-from-the-revolution-to-the-rebellion-of-1745
 gutenberg_issued: '2023-11-29'
 identifiers:
   gutenberg: '72262'
